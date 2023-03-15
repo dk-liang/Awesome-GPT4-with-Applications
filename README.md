@@ -10,6 +10,7 @@ This is a collection of resources related to GPT-4 with Application.
 ## Official Documentation
 ### GPT4
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+- [GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
 - [GPT-4 API waitlist](https://openai.com/waitlist/gpt-4-api)
 
 ### Early GPT
