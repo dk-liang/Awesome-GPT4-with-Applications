@@ -3,6 +3,7 @@
 This is a collection of resources related to GPT-4 with Application.
 
 ## News
+- [OpenAI: Announcing GPT-4, a large multimodal model, with our best-ever results on capabilities and alignment](https://openai.com/product/gpt-4)
 - [OpenAI releases GPT-4, a multimodal AI](https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning)
 - [GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)
 
@@ -10,13 +11,16 @@ This is a collection of resources related to GPT-4 with Application.
 ### GPT4
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [GPT-4 API waitlist](https://openai.com/waitlist/gpt-4-api)
-- [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)  
 
 ### Early GPT
 - [GPT: Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/paper/improving-language-understanding-by)
 - [GPT-2: Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
 - [GPT-3: Language Models are Few-Shot Learners](https://paperswithcode.com/paper/language-models-are-few-shot-learners) 
 - [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) 
+
+## Tutorials and Examples
+- [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)  
+
 ## Applications
 
 - [Be My Eyes](https://openai.com/customer-stories/be-my-eyes): Be My Eyes uses GPT-4 to transform visual accessibility.
@@ -26,15 +30,8 @@ This is a collection of resources related to GPT-4 with Application.
 - [Morgan Stanley](https://openai.com/customer-stories/morgan-stanley):Morgan Stanley wealth management deploys GPT-4 to organize its vast knowledge base.
 - [Government of Iceland](https://openai.com/customer-stories/government-of-iceland): How Iceland is using GPT-4 to preserve its language.
 
-## Tutorials and Examples
-
-coming soon
 
 ## Libraries and Frameworks
-
-coming soon
-
-## Communities and Forums
 
 coming soon
 
