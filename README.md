@@ -1,13 +1,13 @@
 # Awesome GPT-4 with Applications
 
-This is a collection of resources related to GPT-4 with Application.
+This is a collection of resources related to GPT-4, including news, official documents, demo and applications. 
 
 ## News
 - [OpenAI: Announcing GPT-4, a large multimodal model, with our best-ever results on capabilities and alignment](https://openai.com/product/gpt-4)
 - [OpenAI releases GPT-4, a multimodal AI](https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning)
 - [GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)
 
-## Official Documentation
+## Official Documents
 ### GPT4
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
@@ -23,7 +23,8 @@ This is a collection of resources related to GPT-4 with Application.
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)  
 
 ## Applications
-
+- [OpenGPT](https://open-gpt.app/?continueFlag=af5320e8f778b996afe7697670864685): Create ChatGPT Application in seconds/ 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用
+- [Elicit](https://elicit.org/gpt4-waitlist?continueFlag=af5320e8f778b996afe7697670864685): Elicit is an AI research assistant that helps you gather insights from across the research literature.
 - [Be My Eyes](https://openai.com/customer-stories/be-my-eyes): Be My Eyes uses GPT-4 to transform visual accessibility.
 - [Khan Academy](https://openai.com/customer-stories/khan-academy): Khan Academy explores the potential for GPT-4 in a limited pilot program.
 - [Stripe](https://openai.com/customer-stories/stripe): Stripe leverages GPT-4 to streamline user experience and combat fraud.
