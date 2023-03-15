@@ -1,6 +1,6 @@
-# Awesome GPT4 with Applications
+# Awesome GPT-4 with Applications
 
-This is a collection of resources related to GPT4 with Application.
+This is a collection of resources related to GPT-4 with Application.
 
 ## News
 - [OpenAI releases GPT-4, a multimodal AI](https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning)
