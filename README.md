@@ -13,9 +13,9 @@ This is a collection of resources related to GPT-4 with Application.
 - [GPT-4 API waitlist](https://openai.com/waitlist/gpt-4-api)
 
 ### Early GPT
-- [GPT: Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/paper/improving-language-understanding-by)
-- [GPT-2: Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
-- [GPT-3: Language Models are Few-Shot Learners](https://paperswithcode.com/paper/language-models-are-few-shot-learners) 
+- [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+- [GPT-2: Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
+- [GPT-3: Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) 
 - [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) 
 
 ## Tutorials and Examples
