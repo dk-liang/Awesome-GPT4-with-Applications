@@ -7,10 +7,16 @@ This is a collection of resources related to GPT-4 with Application.
 - [GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)
 
 ## Official Documentation
-
+### GPT4
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [GPT-4 API waitlist](https://openai.com/waitlist/gpt-4-api)
+- [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)  
 
+### Early GPT
+- [GPT: Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/paper/improving-language-understanding-by)
+- [GPT-2: Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
+- [GPT-3: Language Models are Few-Shot Learners](https://paperswithcode.com/paper/language-models-are-few-shot-learners) 
+- [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) 
 ## Applications
 
 - [Be My Eyes](https://openai.com/customer-stories/be-my-eyes): Be My Eyes uses GPT-4 to transform visual accessibility.
